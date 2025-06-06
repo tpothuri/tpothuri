@@ -35,13 +35,4 @@ I'm always open to learning opportunities, collaborations, and solving real-worl
 
 ---
 
-### 📊 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teja-varma&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-varma&layout=compact&theme=radical" />
-</p>
-
----
-
 > "Data is the new oil, but like oil, it’s only valuable when refined." — Clive Humby
