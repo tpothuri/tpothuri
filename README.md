@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:tsrvp5405@gmail.com"><img src="https://img.shields.io/badge/Gmail-tsrvp5405@gmail.com-red?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/teja-sai-rama-varma-pothuri-9138711b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Teja%20Sai%20Rama%20Varma%20Pothuri-blue?logo=linkedin" /></a>
-  <img src="https://komarev.com/ghpvc/?username=teja-varma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
