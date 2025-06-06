@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Teja Sai Rama Varma Pothuri</h1>
+<h3 align="center">🚀 Data Engineer | 🧠 AI Enthusiast | 📊 Storyteller with Data</h3>
 
-<!--
-**tpothuri/tpothuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:tsrvp5405@gmail.com"><img src="https://img.shields.io/badge/Gmail-tsrvp5405@gmail.com-red?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/teja-sai-rama-varma-pothuri-9138711b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Teja%20Sai%20Rama%20Varma%20Pothuri-blue?logo=linkedin" /></a>
+  <img src="https://komarev.com/ghpvc/?username=teja-varma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍🎓 About Me
+
+- 🎓 Master's in **Engineering Data Science** @ University of Houston (GPA: 3.66)
+- 🧠 Passionate about **AI-driven innovation**, **data architecture**, and **cloud scalability**
+- 💼 1.5+ years at **Ford** as a **Data Engineer** building robust ETL pipelines & cloud data solutions
+- 📈 I love transforming messy data into clean, actionable insights
+
+---
+
+### 🛠️ My Tech Stack
+
+**Languages & Tools:**  
+`Python` | `SQL` | `R` | `GIT` | `Apache Airflow` | `AWS (S3, Lambda, Redshift)`  
+`Hadoop` | `Spark` | `Hive` | `TensorFlow` | `PyTorch` | `Power BI` | `GCP` | `Azure` | `EDA` | `Excel` |
+
+**Specialties:**  
+- Data Modeling (Star & Snowflake Schema)  
+- ETL / ELT Pipeline Design  
+- Federated Learning  
+- CI/CD & Agile Workflows  
+- AI/ML Model Optimization  
+
+---
+
+### 🏆 Awards & Recognition
+
+- 🏅 *Certificate of Appreciation* – Ford (Critical ingestion handling)
+- 🌟 *Certificate of Awesomeness* – Ford (Data factory advocacy)
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to learning opportunities, collaborations, and solving real-world problems with data.  
+**Feel free to reach out!**
+
+📧 tsrvp5405@gmail.com  
+📍 Houston, TX | 🌐 [LinkedIn](https://www.linkedin.com/in/teja-sai-rama-varma-pothuri-9138711b1)
+
+---
+
+### 📊 GitHub Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teja-varma&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-varma&layout=compact&theme=radical" />
+</p>
+
+---
+
+> "Data is the new oil, but like oil, it’s only valuable when refined." — Clive Humby
