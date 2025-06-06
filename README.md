@@ -11,7 +11,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Master's in **Engineering Data Science** @ University of Houston (GPA: 3.66)
+- 🎓 Master's in **Engineering Data Science** @ University of Houston
 - 🧠 Passionate about **AI-driven innovation**, **data architecture**, and **cloud scalability**
 - 💼 1.5+ years at **Ford** as a **Data Engineer** building robust ETL pipelines & cloud data solutions
 - 📈 I love transforming messy data into clean, actionable insights
@@ -24,20 +24,6 @@
 `Python` | `SQL` | `R` | `GIT` | `Apache Airflow` | `AWS (S3, Lambda, Redshift)`  
 `Hadoop` | `Spark` | `Hive` | `TensorFlow` | `PyTorch` | `Power BI` | `GCP` | `Azure` | `EDA` | `Excel` |
 
-**Specialties:**  
-- Data Modeling (Star & Snowflake Schema)  
-- ETL / ELT Pipeline Design  
-- Federated Learning  
-- CI/CD & Agile Workflows  
-- AI/ML Model Optimization  
-
----
-
-### 🏆 Awards & Recognition
-
-- 🏅 *Certificate of Appreciation* – Ford (Critical ingestion handling)
-- 🌟 *Certificate of Awesomeness* – Ford (Data factory advocacy)
-
 ---
 
 ### 📫 Let's Connect
@@ -46,7 +32,7 @@ I'm always open to learning opportunities, collaborations, and solving real-worl
 **Feel free to reach out!**
 
 📧 tsrvp5405@gmail.com  
-📍 Houston, TX | 🌐 [LinkedIn](https://www.linkedin.com/in/teja-sai-rama-varma-pothuri-9138711b1)
+🌐 [LinkedIn](https://www.linkedin.com/in/teja-sai-rama-varma-pothuri-9138711b1)
 
 ---
 
