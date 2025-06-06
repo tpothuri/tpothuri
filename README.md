@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja Sai Rama Varma Pothuri</h1>
-<h3 align="center">🚀 Data Engineer | 🧠 AI Enthusiast | 📊 Storyteller with Data</h3>
+<h3 align="center">⚡ Transforming Raw Data into Smart Decisions | From ETL to AI</h3>
 
 <p align="center">
   <a href="mailto:tsrvp5405@gmail.com"><img src="https://img.shields.io/badge/Gmail-tsrvp5405@gmail.com-red?logo=gmail" /></a>
