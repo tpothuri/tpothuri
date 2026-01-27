@@ -19,9 +19,29 @@
 
 ### 🛠️ My Tech Stack
 
-**Languages & Tools:**  
-`Python` | `SQL` | `databricks` | `Snowflake`| `GIT` | `Apache Airflow` | `AWS (S3, Lambda, Redshift)`  
-`GCP` | `Azure` | `Hive` | `TensorFlow` | `PyTorch` | `Power BI` | `Hadoop` | `Spark` | `EDA` | `Excel` |
+### **Languages & Core Tools**
+`Python` | `SQL` | `Git` | `Excel` 
+
+### **Big Data & Processing**
+`Apache Spark (Batch & Processing)` | `Databricks` | `Hadoop` | `Hive` 
+
+### **Cloud Platforms**
+`AWS (S3, Lambda, Redshift)` | `Google Cloud Platform (GCP)` | `Microsoft Azure` 
+
+### **Data Warehousing & Storage**
+`Snowflake` | `Amazon S3` 
+
+### **Orchestration & Data Engineering**
+`Apache Airflow` | `API Integration` 
+
+### **Machine Learning & AI**
+`TensorFlow` | `PyTorch` | `Exploratory Data Analysis (EDA)` 
+
+### **Analytics & Visualization**
+`Power BI` 
+
+### **Data Modeling & Architecture**
+`Medallion Architecture (Bronze–Silver–Gold)` | `Dimensional Modeling` | `Star Schema` 
 
 ---
 
