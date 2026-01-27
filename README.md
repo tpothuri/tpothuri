@@ -20,8 +20,8 @@
 ### 🛠️ My Tech Stack
 
 **Languages & Tools:**  
-`Python` | `SQL` | `R` | `GIT` | `Apache Airflow` | `AWS (S3, Lambda, Redshift)`  
-`Hadoop` | `Spark` | `Hive` | `TensorFlow` | `PyTorch` | `Power BI` | `GCP` | `Azure` | `EDA` | `Excel` |
+`Python` | `SQL` | `databricks` | `Snowflake`| `GIT` | `Apache Airflow` | `AWS (S3, Lambda, Redshift)`  
+`GCP` | `Azure` | `Hive` | `TensorFlow` | `PyTorch` | `Power BI` | `Hadoop` | `Spark` | `EDA` | `Excel` |
 
 ---
 
