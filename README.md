@@ -48,11 +48,6 @@ I am a **Master’s in Engineering Data Science** student at the **University of
 | **Orchestration** | `Apache Airflow` `API Integration` |
 | **AI & Analytics** | `TensorFlow` `PyTorch` `Power BI` `EDA` |
 
----
-
-## 📊 GitHub Activity
-![Your GitHub Stats](https://github.com/tpothuri)
-![Top Langs](https://github.com/tpothuri)
 
 ---
 
