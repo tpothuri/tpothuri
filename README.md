@@ -22,12 +22,12 @@ I am a **Master’s in Engineering Data Science** student at the **University of
 
 ### 🏎️ [RideOne - Smart Mobility Platform](https://github.com/tpothuri/databricks/tree/rideone-project)
 *Architecting scalable data infrastructure for urban mobility.*
-* **Tech:** Python, Apache Spark, AWS S3, API Integration.
+* **Tech:** Python, SQL, PySpark, AWS S3, API Integration, databricks.
 * **Key Achievement:** Processed large-scale mobility data to optimize route efficiency and supply-demand forecasting.
 
 ### 🦠 [COVID-19 Global Data Pipeline](https://github.com/tpothuri/databricks/tree/covid-health-intelligence)
 *End-to-end ETL pipeline for real-time pandemic tracking.*
-* **Tech:** SQL, Apache Airflow, Snowflake, Power BI.
+* **Tech:** databricks, pyspark, sql, aws-s3, medallion-architecture, delta-lake, power-bi, data-engineering, etl-pipeline.
 * **Key Achievement:** Automated daily ingestion of messy public health data into a clean **Star Schema** for trend analysis.
 
 ### 🏡 [House Price Prediction Using Machine Learning](https://github.com/tpothuri/ML_Project/tree/House_Price_Prediction)
