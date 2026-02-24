@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a **Master’s in Engineering Data Science** student at the **University of Houston** with a mission to bridge the gap between complex data engineering and actionable AI insights. 
+I bridge the gap between complex **Cloud Infrastructure** and **Actionable AI Insights**. As a Master’s graduate from the **University of Houston** (GPA: 3.8/4.0), I specialize in architecting high-throughput pipelines that transform raw data into measurable business value. 
 
 * **🚀 Ex-Ford Data Engineer:** 1.5+ years building robust ETL pipelines and cloud data solutions.
 * **🏗️ Data Architect:** Expert in **Medallion Architecture** (Bronze ➡️ Silver ➡️ Gold) and Dimensional Modeling.
