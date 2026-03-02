@@ -2,7 +2,6 @@
 ### **Transforming Raw Data into Smart Decisions | From ETL to AI**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/teja-sai-rama-varma-pothuri-9138711b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tsrvp5405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Houston%2C%20TX-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -12,7 +11,6 @@
 ## 🧑‍💻 About Me
 I bridge the gap between complex **Cloud Infrastructure** and **Actionable AI Insights**. As a Master’s graduate from the **University of Houston** (GPA: 3.8/4.0), I specialize in architecting high-throughput pipelines that transform raw data into measurable business value. 
 
-* **🚀 Ex-Ford Data Engineer:** 1.5+ years building robust ETL pipelines and cloud data solutions.
 * **🏗️ Data Architect:** Expert in **Medallion Architecture** (Bronze ➡️ Silver ➡️ Gold) and Dimensional Modeling.
 * **🧠 AI Enthusiast:** Focused on scaling Machine Learning workflows using modern cloud stacks.
 
@@ -42,11 +40,11 @@ I bridge the gap between complex **Cloud Infrastructure** and **Actionable AI In
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `SQL` `Git` `Excel` |
-| **Big Data** | `Apache Spark` `Databricks` `Hadoop` `Hive` |
-| **Cloud** | `AWS (S3, Lambda, Redshift)` `GCP` `Azure` |
+| **Data Engineering** | `Apache Spark` `Databricks (Workflows, Delta Live Tables, Auto Loader)` `Hadoop` `Hive` |
+| **Cloud** | `AWS (Lambda, Step Functions, Glue, S3, RDS` `GCP (BigQuery, Dataproc, GCS, Pub/Sub)` `Azure` |
 | **Data Warehousing**| `Snowflake` `Amazon S3` `Medallion Architecture` |
 | **Orchestration** | `Apache Airflow` `API Integration` |
-| **AI & Analytics** | `TensorFlow` `PyTorch` `Power BI` `EDA` |
+| **AI & Analytics** | `TensorFlow` `PyTorch` `Power BI` `Tableau` `EDA` |
 
 
 ---
@@ -54,8 +52,7 @@ I bridge the gap between complex **Cloud Infrastructure** and **Actionable AI In
 ## 📫 Let's Connect!
 I’m always open to discussing data engineering, AI, or potential collaborations.
 
-* **Email:** [tsrvp5405@gmail.com](mailto:tsrvp5405@gmail.com)
-* **LinkedIn:** [Teja Sai Rama Varma Pothuri](https://www.linkedin.com/in/teja-sai-rama-varma-pothuri-9138711b1/)
+* **Email:** [tejapothuri14@gmail.com](mailto:tejapothuri14@gmail.com)
 
 > *"Data is the new oil, but like oil, it’s only valuable when refined."* — **Clive Humby**
 
