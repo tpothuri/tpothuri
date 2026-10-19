@@ -1,15 +1,15 @@
-# ⚡ Teja Sai Rama Varma Pothuri
+# ⚡ Teja
 ### **Transforming Raw Data into Smart Decisions | From ETL to AI**
 
 <p align="left">
-  <a href="mailto:tsrvp5405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:teja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Houston%2C%20TX-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-I bridge the gap between complex **Cloud Infrastructure** and **Actionable AI Insights**. As a Master’s graduate from the **University of Houston** (GPA: 3.8/4.0), I specialize in architecting high-throughput pipelines that transform raw data into measurable business value. 
+I bridge the gap between complex **Cloud Infrastructure** and **Actionable AI Insights**. I specialize in architecting high-throughput pipelines that transform raw data into measurable business value. 
 
 * **🏗️ Data Architect:** Expert in **Medallion Architecture** (Bronze ➡️ Silver ➡️ Gold) and Dimensional Modeling.
 * **🧠 AI Enthusiast:** Focused on scaling Machine Learning workflows using modern cloud stacks.
